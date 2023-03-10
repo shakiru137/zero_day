@@ -1,0 +1,6 @@
+Write a a script that prints the effective username of the current user
+
+How to print the effective username of the current user
+The command used is "id -un" 
+
+id -un

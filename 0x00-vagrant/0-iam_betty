@@ -1,0 +1,6 @@
+Create a script that current user to the user betty 
+
+How to change from current user to another user 
+The command used is "su file_name" 
+
+su betty

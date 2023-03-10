@@ -1,0 +1,7 @@
+Write that prints all the groups the current user is part of.
+
+How to print the groups the current user is part of. 
+
+The coommand used is "groups"
+
+groups

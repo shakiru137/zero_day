@@ -1,0 +1,9 @@
+Create a script that creates directory called my_dir with permission 751 in the working directory. 
+
+Creating a directory with the permission 751 in the current directory. 
+
+hint: note that the flag "-m" will work in terms of chmod to add the permission to the directory
+
+The command used is "mkdir -m 751 file_name"
+
+mkdir -m 751 my_dir

@@ -1,0 +1,16 @@
+Write a script that sets the permission to the file hello as follows:
+-Owner: no permission
+-Group: no permission
+-Other users: all the permissions
+The file hello will be in the working directory You are not allowed to use commas for this script.
+
+Adding permissions to the owner, group and others without using commas.
+
+hint: 
+owner group other=rwx rwx rwx=111 111 111= 421 421 421
+
+answer:
+
+chmod 007
+
+

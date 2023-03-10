@@ -1,0 +1,9 @@
+Write a script that sets the mode of the file hello the same as olleh's mode.
+-The file hello will be in hthe working directory
+-The file olleh will be in the working directory
+
+setting the mode of permission of one file to another 
+
+The command used is "chmod --refrrence=name_of_file_to_copy name_of_file_copying_mode_to
+
+chmod --reference=olleh hello 

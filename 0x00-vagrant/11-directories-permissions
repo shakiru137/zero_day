@@ -1,0 +1,9 @@
+Create a script that adds executes permission to all subdirectories of the current directory for the owner, the group and all other users.
+-Regular file should not be changed.
+
+Adding execution to the current directory and other subdirectories without affecting the ordinary files
+
+hint: note that the x used in the command will be captalized "X"
+The command used is "chmod -R ugo+X .  
+
+the last dot (.) means the current directory

@@ -1,0 +1,12 @@
+Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory. 
+
+Changing the name of the owner to another name and the group owner to another name for all files and directories in the current directory.
+
+note: The flag -h means the changes will apply to all the files in the directory and subdirectories
+	The flag -R means the changes will apply to the directory and the subdirectories
+No file name is specify therefore the changes will affect the current directory and subdirectories and fileis
+
+command used is "chown -hR owner_new_name group_new_name ."
+
+chown -hR vincent staff .
+

@@ -1,0 +1,7 @@
+Write a script thta changes the owner of the file hello to the user betty. 
+
+How to change file owner to another user 
+
+The command used is "chown new_username file_name"
+
+chown betty hello

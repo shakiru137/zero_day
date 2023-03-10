@@ -1,0 +1,7 @@
+Write a script that adds execution permission to the owner, the group owner and the other users to the file hello. 
+
+Adding execution permission to the owner, group and others 
+
+the command used is "chmod ugo+x file_name"
+
+ugo+x hello

@@ -1,0 +1,6 @@
+Write a script that set more of the file hello to this: 
+-rwx r-x -wx
+
+Answer:
+
+chmod 753 hello
